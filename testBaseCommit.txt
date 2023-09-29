@@ -15,3 +15,4 @@ feature6 second commit
 add feature7
 feature7 second commit
 test master default commit
+add feature5
