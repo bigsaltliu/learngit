@@ -6,3 +6,4 @@ add feature3-sub2
 add feature3-sub2 second commit
 add feature3 second commit
 merge feature3-sub2 to feature3
+add feature5
